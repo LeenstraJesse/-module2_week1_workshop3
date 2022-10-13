@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+p#stiekem-h6 {
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+h2#stiekem-h5 {
+    font-size: 13.28px;
+}
+
+h3#stiekem-h4 {
+    font-size: 16px;
+}
+
+h4#stiekem-h3 {
+    font-size: 18.72px;
+}
+
+h5#stiekem-h2 {
+    font-size: 24px;
+}
+
+h6#stiekem-h1 {
+    font-size: 32px;
+}
